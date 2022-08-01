@@ -6,6 +6,6 @@ This Project is a todo list project following along a [youtuber](https://www.you
 
 31/07/2022 - Issues with pulling and packages on the local computer resolved now.
 
-# Lisense
+# License
 [License](LICENSE)
 
